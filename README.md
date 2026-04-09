@@ -18,7 +18,7 @@ I build things at the intersection of 3D production, AI pipelines, and custom to
 
 **[AI Command](https://github.com/fullydigital-design/ai-command-center)** — Local AI workstation dashboard for RTX setups. GPU/VRAM monitoring, training job auto-detection (Kohya SS, Musubi), ComfyUI/SwarmUI service control, CivitAI/HuggingFace community hub. React + TypeScript + FastAPI + Tauri.
 
-**AI Architect** — ComfyUI workflow generator from natural language. ReactFlow canvas, Claude + Gemini backends. Self-correcting output with multi-stage validation pipeline.
+**[AI Architect](https://github.com/fullydigital-design/ai-architect)** — ComfyUI workflow generator from natural language. ReactFlow canvas, Claude + Gemini backends. Self-correcting output with multi-stage validation pipeline.
 
 **Portfolio CMS** — Full-stack React + Supabase system with 26 AI tools integrated. Custom-built — no third-party CMS. Powers my live portfolio at likhodievski.com.
 
