@@ -24,7 +24,7 @@ I build things at the intersection of 3D production, AI pipelines, and custom to
 
 **[AI Canvas](https://github.com/fullydigital-design/ai-canvas)** — Local image editor with WebGL rendering, live Blender integration, and diffusion model hooks. Electron-based, offline-first.
 
-**CV Builder** — Desktop app (Electron + React) with 4 AI providers. Built to solve my own job search; ended up being a proper product.
+**[CV Builder](https://github.com/fullydigital-design/cv-builder)** — Desktop CV and cover letter builder for the DACH job market. Electron + React, BYOK AI (Claude/GPT/Gemini), bilingual EN/DE, Kanban tracker with per-application CV snapshots.
 
 ---
 
