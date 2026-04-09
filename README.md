@@ -22,7 +22,7 @@ I build things at the intersection of 3D production, AI pipelines, and custom to
 
 **Portfolio CMS** — Full-stack React + Supabase system with 26 AI tools integrated. Custom-built — no third-party CMS. Powers my live portfolio at likhodievski.com.
 
-**AI Canvas** — Local image editor with WebGL rendering, live Blender integration, and diffusion model hooks. Electron-based, offline-first.
+**[AI Canvas](https://github.com/fullydigital-design/ai-canvas)** — Local image editor with WebGL rendering, live Blender integration, and diffusion model hooks. Electron-based, offline-first.
 
 **CV Builder** — Desktop app (Electron + React) with 4 AI providers. Built to solve my own job search; ended up being a proper product.
 
