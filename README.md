@@ -16,13 +16,15 @@ I build things at the intersection of 3D production, AI pipelines, and custom to
 
 ## Selected Projects
 
+**AI Command** — Local AI workstation dashboard for RTX setups. GPU/VRAM monitoring, training job auto-detection (Kohya SS, Musubi), ComfyUI/SwarmUI service control, CivitAI/HuggingFace community hub. React + TypeScript + FastAPI + Tauri.
+
+**AI Architect** — ComfyUI workflow generator from natural language. ReactFlow canvas, Claude + Gemini backends. Self-correcting output with multi-stage validation pipeline.
+
+**Portfolio CMS** — Full-stack React + Supabase system with 26 AI tools integrated. Custom-built — no third-party CMS. Powers my live portfolio at likhodievski.com.
+
+**AI Canvas** — Local image editor with WebGL rendering, live Blender integration, and diffusion model hooks. Electron-based, offline-first.
+
 **CV Builder** — Desktop app (Electron + React) with 4 AI providers. Built to solve my own job search; ended up being a proper product.
-
-**Portfolio CMS** — Full-stack React + Supabase system with 26 AI tools integrated. Powers my live portfolio site.
-
-**AI Architect** — ComfyUI workflow generator from natural language. ReactFlow canvas, Claude + Gemini backends.
-
-**AI Canvas** — Local image editor with WebGL rendering, live Blender integration, and diffusion model hooks. Electron-based.
 
 ---
 
@@ -36,6 +38,7 @@ I build things at the intersection of 3D production, AI pipelines, and custom to
 ![V-Ray](https://img.shields.io/badge/V--Ray-004B93?style=flat-square&logoColor=white)
 ![Corona](https://img.shields.io/badge/Corona-FF6B00?style=flat-square&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-CC2222?style=flat-square&logoColor=white)
+![FStorm](https://img.shields.io/badge/FStorm-FF4400?style=flat-square&logoColor=white)
 
 **AI & Automation**
 
@@ -54,6 +57,8 @@ I build things at the intersection of 3D production, AI pipelines, and custom to
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 
 **Post & Design**
 
