@@ -20,7 +20,7 @@ I build things at the intersection of 3D production, AI pipelines, and custom to
 
 **[AI Architect](https://github.com/fullydigital-design/ai-architect)** — ComfyUI workflow generator from natural language. ReactFlow canvas, Claude + Gemini backends. Self-correcting output with multi-stage validation pipeline.
 
-**Portfolio CMS** — Full-stack React + Supabase system with 26 AI tools integrated. Custom-built — no third-party CMS. Powers my live portfolio at likhodievski.com.
+**Portfolio CMS** — Full-stack React + Supabase system with 26 AI tools integrated. Custom-built — no third-party CMS. Live at [likhodievski.com](https://likhodievski.com) · code private.
 
 **[AI Canvas](https://github.com/fullydigital-design/ai-canvas)** — Local image editor with WebGL rendering, live Blender integration, and diffusion model hooks. Electron-based, offline-first.
 
