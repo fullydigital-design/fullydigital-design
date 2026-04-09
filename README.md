@@ -47,6 +47,7 @@ I build things at the intersection of 3D production, AI pipelines, and custom to
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square&logoColor=white)
 ![Runway](https://img.shields.io/badge/Runway-000000?style=flat-square&logoColor=white)
 ![Kling](https://img.shields.io/badge/Kling-111111?style=flat-square&logoColor=white)
+![SeeDream](https://img.shields.io/badge/SeeDream_2.0-111111?style=flat-square&logoColor=white)
 ![fal.ai](https://img.shields.io/badge/fal.ai-7C3AED?style=flat-square&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
